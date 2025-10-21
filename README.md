@@ -40,6 +40,53 @@ whatsapp-chat-bot/
 
 ---
 
+## 🚀 Como Executar o Projeto
+
+Siga os passos abaixo para configurar e rodar o bot em sua máquina local.
+
+### 1. Pré-requisitos
+
+* **[Node.js](https://nodejs.org/en/)** (versão 18 ou superior recomendada)
+* Uma conta do **WhatsApp** ativa
+* Uma chave de API da **[OpenAI](https://platform.openai.com/account/api-keys)**
+
+### 2. Instalação
+
+1.  Clone este repositório (ou apenas baixe os arquivos):
+    ```bash
+    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    ```
+2.  Acesse a pasta do projeto:
+    ```bash
+    cd whatsapp-chat-bot
+    ```
+3.  Instale todas as dependências:
+    ```bash
+    npm install
+    ```
+
+### 3. Configuração
+
+1.  Crie um arquivo chamado `.env` na raiz do projeto.
+2.  Adicione sua chave de API da OpenAI dentro deste arquivo:
+    ```ini
+    OPENAI_API_KEY=sk-sua-chave-secreta-aqui
+    ```
+
+### 4. Execução
+
+1.  Inicie o bot:
+    ```bash
+    node index.js
+    ```
+    *(Ou `npm start` se você configurar um script no `package.json`)*
+
+2.  Um **QR Code** aparecerá no seu terminal.
+3.  Abra o WhatsApp no seu celular, vá em "Aparelhos conectados" e escaneie o QR Code.
+4.  Pronto! O bot estará online e respondendo às mensagens.
+
+---
+
 ### ⚠️ Observações Importantes
 
 - Este projeto é para fins educacionais/testes pessoais.
