@@ -1,3 +1,5 @@
 node_modules/
 .env
 .DS_Store
+node_modules/
+whatsapp-clinica-bot/node_modules/puppeteer-core/.local-chromium/
