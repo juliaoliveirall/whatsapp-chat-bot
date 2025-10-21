@@ -3,3 +3,7 @@ node_modules/
 .DS_Store
 node_modules/
 whatsapp-clinica-bot/node_modules/puppeteer-core/.local-chromium/
+node_modules/
+.local-chromium/
+whatsapp-clinica-bot/node_modules/
+whatsapp-clinica-bot/.local-chromium/
