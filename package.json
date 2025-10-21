@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-chat-bot",
+  "version": "1.0.0",
+  "description": "implementando um ambiente de testes utilizando a API OpenAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliaoliveirall/whatsapp-chat-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliaoliveirall/whatsapp-chat-bot/issues"
+  },
+  "homepage": "https://github.com/juliaoliveirall/whatsapp-chat-bot#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.1"
+  }
+}
