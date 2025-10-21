@@ -58,5 +58,5 @@ Durante a configuração:
 
 ### 💙 Autoria
 
-Desenvolvido por Júlia Oliveira 🧠
+Desenvolvido por Júlia Oliveira e Luiza Pessoa 🧠
 Projeto criado para testes e aprendizado de automação de mensagens com IA.
